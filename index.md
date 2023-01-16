@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Door Dash Project](/sample Project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/P 1 image for github.jpg?raw=true"/>
 For this project, I was tasked with using Excel to answer multiple questions posed by the companies CEO.  I have main talking points, insights and recommendations for the company.
 
 ---
