@@ -9,7 +9,7 @@
 For this project, I was tasked with using Excel to answer multiple questions posed by the companies CEO.  I have main talking points, insights and recommendations for the company.
 
 ---
-#### [Education Project](/https://www.linkedin.com/pulse/massachusetts-school-report-card-dan-waterstradt/)
+#### [Education Project](https://www.linkedin.com/pulse/massachusetts-school-report-card-dan-waterstradt/)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 I explored what a good analytics Tableau dashboard should look like.  It shows how I found the data I was looking for and the data visualization for each data point.  I also show how to tie the school report card to the state budget and show how we can save or change value, and much more. 
 
