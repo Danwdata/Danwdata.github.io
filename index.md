@@ -26,8 +26,8 @@ My final write up for Avery Smith's 21 Days To Data project covering New York Ci
 
 ### Category Name 2
 
-- [Door Dash Project](https://www.linkedin.com/pulse/massachusetts-school-report-card-dan-waterstradt/)
-- [Education Project](https://www.linkedin.com/pulse/market-analysis-door-dash-using-excel-dan-waterstradt/?trackingId=8xNEZCqKS%2Fm93kXr0xiOlQ%3D%3D)
+- [Door Dash Project](https://www.linkedin.com/pulse/market-analysis-door-dash-using-excel-dan-waterstradt/?trackingId=8xNEZCqKS%2Fm93kXr0xiOlQ%3D%3D)
+- [Education Project](https://www.linkedin.com/pulse/massachusetts-school-report-card-dan-waterstradt/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
