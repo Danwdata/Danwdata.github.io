@@ -10,7 +10,7 @@ For this project, I was tasked with using Excel to answer multiple questions pos
 
 ---
 #### [Door Dash Project](https://www.linkedin.com/pulse/market-analysis-door-dash-using-excel-dan-waterstradt/?trackingId=8xNEZCqKS%2Fm93kXr0xiOlQ%3D%3D)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+<img src="images/P2 education photo.jpg?raw=true"/>
 I explored what a good analytics Tableau dashboard should look like.  It shows how I found the data I was looking for and the data visualization for each data point.  I also show how to tie the school report card to the state budget and show how we can save or change value, and much more. 
 
 ---
