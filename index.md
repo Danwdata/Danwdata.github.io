@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Door Dash Project](/https://www.linkedin.com/pulse/market-analysis-door-dash-using-excel-dan-waterstradt/?trackingId=8xNEZCqKS%2Fm93kXr0xiOlQ%3D%3D)
+#### [Door Dash Project](/sample_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 For this project, I was tasked with using Excel to answer multiple questions posed by the companies CEO.  I have main talking points, insights and recommendations for the company.
 
